@@ -1,4 +1,4 @@
-# CLI CRUD tool
+<h1> CLI CRUD tool </h1>
 
 ---
 
@@ -45,7 +45,7 @@ Options:
 # Agora é só rodar o programa:
 
 # Exemplo de criação de herói:
-node index.js --nome Hulk --poder Força --cadastrar
+node index.js --nome 'Hulk' --poder 'Força' --cadastrar
 
 # Liste os heróis para ver se funcionou: 
 
